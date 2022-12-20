@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nascimento-0388b4249/)
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=Muril021&show_icons=true&theme=dark">
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muril021&layout=compact">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Muril021&show_icons=true&theme=dark">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muril021&layout=compact">
 </div>
 
 ## Tecnologias
