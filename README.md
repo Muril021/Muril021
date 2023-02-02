@@ -20,4 +20,4 @@
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Desenvolvedor Web Front-end
+Desenvolvedor Web
